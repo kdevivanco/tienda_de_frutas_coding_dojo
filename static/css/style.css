@@ -1,0 +1,9 @@
+.fruit-div{
+    display: flex;
+}
+
+.fruit-img{
+    width: 150px;
+    height: 150px;
+    margin: 1rem;
+}
